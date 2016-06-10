@@ -1,0 +1,6 @@
+message FileInfo
+{
+    required string name = 1;
+    required fixed32 size = 2;
+    required bytes  info = 3;
+}

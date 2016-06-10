@@ -1,0 +1,1 @@
+/usr/bin/clang++    -std=c++11 -Wall -DBOOST_LOG_DYN_LINK   CMakeFiles/client.dir/client.cc.o CMakeFiles/client.dir/fileinfo.cc.o  -o client -rdynamic -lboost_system -lboost_thread -lboost_log -lboost_filesystem -lpthread 
